@@ -1,5 +1,7 @@
 # react-native-create-thumbnail
 
+# This fork is specifically made to fix android api 33
+
 iOS/Android thumbnail generator with support for both local and remote videos. `react-native-create-thumbnail` is a wrapper around
 [`AVAssetImageGenerator`](https://developer.apple.com/documentation/avfoundation/avassetimagegenerator?language=objc) (iOS) and [`MediaMetadataRetriever`](https://developer.android.com/reference/android/media/MediaMetadataRetriever) (Android)
 
